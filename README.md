@@ -1,1 +1,1 @@
-This is the training for checking Artifacts
+This is the training for checking Artifacts.
